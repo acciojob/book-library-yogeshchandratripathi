@@ -5,7 +5,7 @@
 .f2{
 	height:40px;
 	width:100%;
-	background:#777777;
+	background:#f1f1f1;
 	text-align:center;
 	top:10px;
 }
@@ -16,7 +16,7 @@
 	box-shadow: 1px px;
 }
 .book{
-	background:'rgb(0, 0, 0);
+	background:#f1f1f1;
 	margin-top:15px;
 	 display: block;
 	padding-bottom:10px;
