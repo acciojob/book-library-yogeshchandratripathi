@@ -10,9 +10,10 @@
 	top:10px;
 }
 .book-library{
-	background:#ffffff;
+	background:rgb(0, 0, 0)';
 	padding:px;
 	margin:30px;
+	box-shadow: 1px px;
 }
 .book{
 	background:#777777;
