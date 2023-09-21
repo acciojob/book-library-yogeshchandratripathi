@@ -14,9 +14,10 @@
 	padding:px;
 	margin:30px;
 	box-shadow: 1px px;
+	border-radius:10px;
 }
 .book{
-	background:#f1f1f1;
+	background:#777777;
 	margin-top:15px;
 	 display: block;
 	padding-bottom:10px;
