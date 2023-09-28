@@ -17,7 +17,7 @@
 	border-radius:10px;
 }
 .book{
-	background:#777777;
+	background:#f1f1f1;
 	margin-top:15px;
 	 display: block;
 	padding-bottom:10px;
@@ -38,4 +38,7 @@
   margin-right: auto;
   width: 50%;
 	padding-top:10px;
+}
+.author{
+	color:#777777;
 }
